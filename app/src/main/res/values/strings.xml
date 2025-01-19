@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sistema de Transporte</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="welcome_message">Bienvenido al Sistema de Transporte</string>
+    <string name="operador_message">Operador en acción</string>
+    <string name="perfil_button">Ver Perfil</string>
+    <string name="crear_servicio_button">Crear Servicio</string>
+    <string name="actualizar_servicio_button">Actualizar Servicio</string>
+    <string name="eliminar_servicio_button">Eliminar Servicio</string>
+</resources>
